@@ -1,3 +1,3 @@
 # gitskill
-create a new brach
-master update readme
+featurel update this branch
+修改冲突 解决冲突问题
